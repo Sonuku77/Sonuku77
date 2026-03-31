@@ -1,6 +1,13 @@
 #include<stdio.h>
 int main(){
-    int a[4]={3,9,6,2};
-    for(int i=0;i<=4;i++)
-    printf("%d ",a[i]);
+    int a[5];
+    for(int i=0;i<=4;i++){
+        printf("enter a number %d\n",i+1);
+        scanf("%d",&a[i]);
+    }
+    for(int i=0;i<=4;i++){
+        printf("%d",a[i]);
+    }
+    return 0;
+   
 }
