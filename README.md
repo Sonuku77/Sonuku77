@@ -9,3 +9,6 @@ I'm a first-year B.Tech student pursuing Computer Science and Engineering. I am 
 - HTML/CSS
 - Data Structures and Algorithms
 
+
+I have to learn all this and I have learnt C.
+
